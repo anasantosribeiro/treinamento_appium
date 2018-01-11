@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = 'Nexus_5_API_23'
+app = "/Users/Ana.Santos/treinamento_appium/build/netshoes-3-6-1.apk"
